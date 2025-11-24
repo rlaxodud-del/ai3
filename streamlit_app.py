@@ -74,7 +74,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-  label[0]: {
+  label[0] : {"texts": ["중국식 냉면은 맛있어"], "image" : [https://search.pstatic.net/common/?src=
 }
 
 # ======================
