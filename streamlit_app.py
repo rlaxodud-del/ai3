@@ -75,9 +75,9 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
   labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA3MzBfMTE0%2FMDAxNjI3NjM5MTg2MzA1.hQNVefHMeee8_yu5G9NeSHaRJM8gI0sgbtnhndi2jiAg.E4soA9N4nLDxyM4Fo8OkvBEl6Xp7_eQzY67h_KWzqo4g.JPEG.llzzinll%2FIMG_9560.JPG&type=sc960_832]},
-  labels[1] : {"texts" : ["짜장면은 맛있어"],"images": ["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA5MjZfMTUx%2FMDAxNzU4ODY4NjY4MDc0.sgThL3KMaMyQbYinrB3FntCVDCnzSBP2t9StGUG4CLEg.sOWNVItpmf41tCnJ7uzwbQw4Z3PjyAkC2AW8i5nUP8gg.PNG%2F20250926_153647.png&type=a340"]},
+  labels[1] : {"texts" : ["짜장면은 맛있어"], "images": ["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA5MjZfMTUx%2FMDAxNzU4ODY4NjY4MDc0.sgThL3KMaMyQbYinrB3FntCVDCnzSBP2t9StGUG4CLEg.sOWNVItpmf41tCnJ7uzwbQw4Z3PjyAkC2AW8i5nUP8gg.PNG%2F20250926_153647.png&type=a340"]},
   labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTEwMjdfMjgg%2FMDAxNzYxNTUwNTE4MTU0.3_LERBQAVmFZllGk0BGZoVl6tqjAkGv3jVbpHwYpA_Mg.eemXgmcAe3NPqodaAAuZDia7no11nhMB0xSj6oQFit4g.JPEG%2FKakaoTalk_20251026_134708348_20.jpg&type=sc960_832"]},
-  labels[3] : {"texts": ["탕수육은 맛있어]"I "images" : ["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA0MDhfNTYg%2FMDAxNzQ0MTE0NzkzMTMy.EMAfVkylmTd-jcYVVKjU0uNSSeXOG-omAvL2R6wX92Eg.fB9gzikayXGAjQ6Qjqw2bRfSf31cBxB04WK0uAlMt7wg.JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5_-_2025-04-08T211933.742.jpg&type=sc960_832"]},
+  labels[3] : {"texts": ["탕수육은 맛있어]" "images" : ["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA0MDhfNTYg%2FMDAxNzQ0MTE0NzkzMTMy.EMAfVkylmTd-jcYVVKjU0uNSSeXOG-omAvL2R6wX92Eg.fB9gzikayXGAjQ6Qjqw2bRfSf31cBxB04WK0uAlMt7wg.JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5_-_2025-04-08T211933.742.jpg&type=sc960_832"]},
                
 }
 
